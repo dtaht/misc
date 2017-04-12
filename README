@@ -1,0 +1,11 @@
+Misc tools
+
+I've written a lot of little tools over the years, but had lost
+'em all. I just need a safe place to store them. Intended for this
+dir are:
+
+- foot - an interface to a footpedal
+- stagger - stagger processes over an interval
+- rtb - read that back - speech synth interface
+
+Whenever I get around to working on them again.
