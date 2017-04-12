@@ -6,6 +6,11 @@
 #include <linux/input.h>
 #include <linux/uinput.h>
 
+/* This was intended to be a X input driver for a certain footpedal.
+   Regrettably - either it or the usb driver is flaky at the moment.
+
+   I'll go back to working on it whenever I figure out if it is the
+   hardware or me.
 
 /*      Dictation commands:
  
