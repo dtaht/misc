@@ -10,7 +10,7 @@
    Regrettably - either it or the usb driver is flaky at the moment.
 
    I'll go back to working on it whenever I figure out if it is the
-   hardware or me.
+   hardware or me. Frustrated.
 
 /*      Dictation commands:
  
